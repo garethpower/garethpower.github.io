@@ -1,0 +1,24 @@
+{
+  "id": "RAG Project/Solution Development/chatbot-code",
+  "title": "RAG Chatbot Python Script",
+  "description": "I used Claude 4.5 Sonnet to generate the chatbot Python script used in this project.",
+  "source": "@site/docs/RAG Project/3. Solution Development/chatbot-code.mdx",
+  "sourceDirName": "RAG Project/3. Solution Development",
+  "slug": "/RAG Project/Solution Development/chatbot-code",
+  "permalink": "/docs/RAG Project/Solution Development/chatbot-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/3. Solution Development/chatbot-code.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Output Data",
+    "permalink": "/docs/RAG Project/Evaluation/output-data"
+  },
+  "next": {
+    "title": "Creating the Custom Chatbot",
+    "permalink": "/docs/RAG Project/Solution Development/create-chatbot"
+  }
+}

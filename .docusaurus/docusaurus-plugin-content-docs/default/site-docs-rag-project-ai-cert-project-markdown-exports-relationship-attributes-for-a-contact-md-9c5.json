@@ -1,0 +1,24 @@
+{
+  "id": "RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact",
+  "title": "Relationship Attributes for a Contact.html",
+  "description": "Format: HTML",
+  "source": "@site/docs/RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact.md",
+  "sourceDirName": "RAG Project/ai_cert_project/markdown_exports",
+  "slug": "/RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact",
+  "permalink": "/docs/RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview of a Relationship Map.html",
+    "permalink": "/docs/RAG Project/ai_cert_project/markdown_exports/Overview_of_a_Relationship_Map"
+  },
+  "next": {
+    "title": "Relationship Attributes for a Contact.html",
+    "permalink": "/docs/RAG Project/ai_cert_project/markdown_exports/Relationship_Attributes_for_a_Contact_HTML"
+  }
+}

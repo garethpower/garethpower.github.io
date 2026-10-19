@@ -1,0 +1,24 @@
+{
+  "id": "RAG Project/create-chatbot",
+  "title": "Creating the Custom Chatbot",
+  "description": "With the help of Claude 4.5 Sonnet generative AI, I created a Python script for a custom chatbot that uses:",
+  "source": "@site/docs/RAG Project/create-chatbot.mdx",
+  "sourceDirName": "RAG Project",
+  "slug": "/RAG Project/create-chatbot",
+  "permalink": "/docs/RAG Project/create-chatbot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/create-chatbot.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RAG Chatbot Python Script",
+    "permalink": "/docs/RAG Project/chatbot-code"
+  },
+  "next": {
+    "title": "RAG Source Formats Used in this Project",
+    "permalink": "/docs/RAG Project/rag-source-formats"
+  }
+}

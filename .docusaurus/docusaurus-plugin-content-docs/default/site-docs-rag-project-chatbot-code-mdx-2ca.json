@@ -1,0 +1,20 @@
+{
+  "id": "RAG Project/chatbot-code",
+  "title": "RAG Chatbot Python Script",
+  "description": "The RAG chatbot script is quite lengthy and untidy because I included a good deal of logging capability, a batch mode, and a comprehensive set of test configuration options.",
+  "source": "@site/docs/RAG Project/chatbot-code.mdx",
+  "sourceDirName": "RAG Project",
+  "slug": "/RAG Project/chatbot-code",
+  "permalink": "/docs/RAG Project/chatbot-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/chatbot-code.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Source data",
+    "permalink": "/docs/RAG Project/Solution Development/source-data"
+  }
+}

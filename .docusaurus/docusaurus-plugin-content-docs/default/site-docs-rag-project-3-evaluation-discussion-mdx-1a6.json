@@ -1,0 +1,27 @@
+{
+  "id": "RAG Project/Evaluation/discussion",
+  "title": "Discussion",
+  "description": "The table in Output Data presents the individual answer scores per question per source format/chunking configuration.",
+  "source": "@site/docs/RAG Project/3. Evaluation/discussion.mdx",
+  "sourceDirName": "RAG Project/3. Evaluation",
+  "slug": "/RAG Project/Evaluation/discussion",
+  "permalink": "/docs/RAG Project/Evaluation/discussion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/3. Evaluation/discussion.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Output Data",
+    "permalink": "/docs/RAG Project/Evaluation/output-data"
+  },
+  "next": {
+    "title": "Conclusions",
+    "permalink": "/docs/RAG Project/conclusions"
+  }
+}

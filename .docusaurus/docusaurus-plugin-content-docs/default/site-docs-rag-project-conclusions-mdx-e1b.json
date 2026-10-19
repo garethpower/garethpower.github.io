@@ -1,0 +1,20 @@
+{
+  "id": "RAG Project/conclusions",
+  "title": "Conclusions",
+  "description": "This study compared several source content formats for a special-purpose RAG chatbot. In line with expectations, PDF proved to be a poor choice, and the tightly structured DITA format proved to be an excellent choice. However, HTML performed surprisingly poorly as a source format.",
+  "source": "@site/docs/RAG Project/conclusions.mdx",
+  "sourceDirName": "RAG Project",
+  "slug": "/RAG Project/conclusions",
+  "permalink": "/docs/RAG Project/conclusions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/conclusions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discussion",
+    "permalink": "/docs/RAG Project/Evaluation/discussion"
+  }
+}

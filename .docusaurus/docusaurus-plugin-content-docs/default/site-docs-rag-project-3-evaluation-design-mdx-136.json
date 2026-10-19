@@ -1,0 +1,27 @@
+{
+  "id": "RAG Project/Evaluation/design",
+  "title": "Evaluation Design",
+  "description": "Based on my knowledge of the RAG source material, I prepared a set of twelve questions, divided into four categories. The purpose of these categories is to define questions for which the main information required for a correct answer is found in, respectively, regular text, lists and tables. My reasoning was that this should expose the weaknesses of unstructured RAG source content.",
+  "source": "@site/docs/RAG Project/3. Evaluation/design.mdx",
+  "sourceDirName": "RAG Project/3. Evaluation",
+  "slug": "/RAG Project/Evaluation/design",
+  "permalink": "/docs/RAG Project/Evaluation/design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/3. Evaluation/design.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RAG Source Formats Used in this Project",
+    "permalink": "/docs/RAG Project/Solution Development/rag-source-formats"
+  },
+  "next": {
+    "title": "Output Data",
+    "permalink": "/docs/RAG Project/Evaluation/output-data"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RAG Project/Solution Development/rag-source-formats",
+  "title": "RAG Source Formats Used in this Project",
+  "description": "RAG systems can accept source content in several different formats. In this project, I tested plain text, PDF, HTML and DITA formats.",
+  "source": "@site/docs/RAG Project/Solution Development/rag-source-formats.mdx",
+  "sourceDirName": "RAG Project/Solution Development",
+  "slug": "/RAG Project/Solution Development/rag-source-formats",
+  "permalink": "/docs/RAG Project/Solution Development/rag-source-formats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RAG Project/Solution Development/rag-source-formats.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How RAG Works",
+    "permalink": "/docs/RAG Project/Solution Development/how-rag-works"
+  },
+  "next": {
+    "title": "Source data",
+    "permalink": "/docs/RAG Project/Solution Development/source-data"
+  }
+}
